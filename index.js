@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
         padding: 25,
         backgroundColor: 'transparent',
         fontSize: 25,
-        color: '#FFF',
+        color: '#000',
         textAlign: 'center',
     },
     footer: {
